@@ -1,13 +1,5 @@
-Wolfery issue tracking
-======================
-
-https://wolfery.com:44369
-
-This repository is meant to handle issues regarding the game engine behind wolfery.com
-
-Creating issues
----------------
-
-Feel free to create *bug* reports or feature *suggestions*.  
-Also, feel free to comment on any existing suggestion.
-
+> **Note**
+>
+> This is an old repository or the long abandoned first attempt at a web based MU* game engine.
+>
+> Bugs and feature request for the current Wolfery.com game can be done at [Forum - Wolfery.com](https://forum.wolfery.com)
